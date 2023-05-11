@@ -12,9 +12,6 @@ Firstly, we set up the CI workflow by adding a `gradle.yml` file in the `.github
 
 Upon making changes to the code and committing to the main branch, the action was successfully triggered.
 
-## CI Workflow Results
-
-Screenshots:
 
 ## CD Workflow
 
@@ -26,10 +23,26 @@ We then configured a `google.yml` file in the `.github/workflows` directory. Thi
 
 Upon creating a release, the CD workflow was successfully triggered.
 
-## CD Workflow Results
+## CI/CD Workflow Results
 
 Screenshots:
 
+Screenshots:
+![Image 1](./images/1.png)
+![Image 2](./images/2.png)
+![Image 3](./images/3.png)
+![Image 4](./images/4.png)
+![Image 5](./images/5.png)
+![Image 6](./images/6.png)
+![Image 7](./images/7.png)
+![Image 8](./images/8.png)
+![Image 9](./images/9.png)
+![Image 10](./images/10.png)
+![Image 11](./images/11.png)
+![Image 12](./images/12.png)
+![Image 13](./images/13.png)
+![Image 14](./images/14.png)
+![Image 15](./images/15.png)
 
 ## Conclusion
 
